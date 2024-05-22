@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1700349283 source:c:\users\sandr\desktop\uned m.c.u.c\2023\iii cuatrimestre 2023\introducción a la programación-00831\proyecto2\main.cpp
+	<iostream>
+	<locale>
+	<fstream>
+	<stdlib.h>
+	<ctime>
+	<iomanip>
+
+1700364656 source:c:\users\sandr\onedrive\escritorio\uned m.c.u.c\2023\iii cuatrimestre 2023\introducción a la programación-00831\proyecto2\main.cpp
+	<iostream>
+	<locale>
+	<fstream>
+	<stdlib.h>
+	<ctime>
+	<iomanip>
+
